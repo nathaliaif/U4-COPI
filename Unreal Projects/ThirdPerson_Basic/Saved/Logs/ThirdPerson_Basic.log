@@ -283,3 +283,150 @@ LogInit: Object subsystem initialized
 [2017.10.05-16.02.20:674][  2]LogAssetRegistry: Asset discovery search completed in 14.2703 seconds
 [2017.10.05-16.02.20:674][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2017.10.05-16.02.20:674][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2017.10.05-16.05.05:424][176]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.10.05-16.05.06:375][176]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.05-16.05.41:209][760]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.10.05-16.05.41:631][761]LogRenderer: Reallocating scene render targets to support 804x832 NumSamples 1 (Frame:1327).
+[2017.10.05-16.09.26:885][120]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.10.19:835][  3]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.05-16.17.42:693][126]LogSavePackage: Save=139.39ms
+[2017.10.05-16.17.42:693][126]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP8BAC7C0E4AD7A8E7EAD6A49D73A2AB27.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.17.42:705][126]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.17.44:077][174]LogSavePackage: Save=13.96ms
+[2017.10.05-16.17.44:077][174]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPEDFF569849AC272805AF6882265E428E.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.17.44:079][174]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.17.45:276][215]LogSavePackage: Save=14.36ms
+[2017.10.05-16.17.45:276][215]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPC0B6F3BF49FC319DBC6134BD28C84F55.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.17.45:278][215]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.17.46:468][256]LogSavePackage: Save=15.07ms
+[2017.10.05-16.17.46:468][256]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP9A63E19D4A84F4A98E3573A0EEF0B2EE.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.17.46:470][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.17.49:228][356]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.17.49:249][356]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_3  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:250][356]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_5  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:250][356]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_3  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_5  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:368][356]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.17.49:371][356]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning [0950.98] Compile of CharacterAnimBP successful, but with 3 Warning(s) [in 140 ms] (/Game/Character/CharacterAnimBP.CharacterAnimBP)
+[2017.10.05-16.18.37:026][ 52]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/MontageExample_End_1.MontageExample_End_1
+[2017.10.05-16.18.37:033][ 52]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/MontageExample_End_2.MontageExample_End_2
+[2017.10.05-16.18.37:081][ 54]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/MontageExample_Punch_1.MontageExample_Punch_1
+[2017.10.05-16.18.37:113][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/MontageExample_Punch_2.MontageExample_Punch_2
+[2017.10.05-16.18.37:160][ 56]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/MontageExample_Start.MontageExample_Start
+[2017.10.05-16.18.38:502][ 86]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2017.10.05-16.18.38:515][ 86]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2017.10.05-16.23.53:213][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.013
+[2017.10.05-16.23.53:218][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterAnimBP] ([1] browsable assets)...
+[2017.10.05-16.23.53:272][155]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/CharacterAnimBP.CharacterAnimBP]
+[2017.10.05-16.23.53:272][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterAnimBP]
+[2017.10.05-16.23.53:318][155]LogSavePackage: Save=37.99ms
+[2017.10.05-16.23.53:318][155]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP_Auto1D00A2192444D2BF1B0F5D88E6B014B07.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Game/Character/CharacterAnimBP_Auto1.uasset'
+[2017.10.05-16.23.53:320][155]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Game/Character/CharacterAnimBP_Auto1.uasset
+[2017.10.05-16.23.53:320][155]LogFileHelpers: Auto-saving content packages took 0.107
+[2017.10.05-16.24.52:589][192]LogSavePackage: Save=31.00ms
+[2017.10.05-16.24.52:589][192]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPB5783EFB40B731A378F286B957B1EB2A.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.24.52:592][192]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.24.53:769][235]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.24.53:794][235]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_5  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.24.53:794][235]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.24.53:880][235]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.24.53:880][235]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.24.53:880][235]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_5  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.24.53:880][235]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.24.53:881][235]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning [1375.51] Compile of CharacterAnimBP successful, but with 2 Warning(s) [in 111 ms] (/Game/Character/CharacterAnimBP.CharacterAnimBP)
+[2017.10.05-16.25.01:504][494]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2017.10.05-16.25.09:561][744]LogSavePackage: Save=30.57ms
+[2017.10.05-16.25.09:561][744]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP980F8DEE415FE9E31F4812B74116476A.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.25.09:564][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.27.13:906][ 95]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.27.13:955][ 95]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.27.14:035][ 95]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.10.05-16.27.14:035][ 95]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.27.14:036][ 95]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning [1515.67] Compile of CharacterAnimBP successful, but with 1 Warning(s) [in 129 ms] (/Game/Character/CharacterAnimBP.CharacterAnimBP)
+[2017.10.05-16.27.15:374][137]LogSavePackage: Save=25.57ms
+[2017.10.05-16.27.15:374][137]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP4FD5C07A4BEEEBD531F2FF90F342B3FD.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.27.15:378][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.27.56:653][574]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.27.56:681][574]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.27.56:770][574]BlueprintEditorCompileResults:Warning: Warning  AnimStateTransitionNode_6  will never be taken, please connect something to  bCanEnterTransition
+[2017.10.05-16.27.56:770][574]LogBlueprint:Warning: [Compiler CharacterAnimBP] Warning [1558.41] Compile of CharacterAnimBP successful, but with 1 Warning(s) [in 116 ms] (/Game/Character/CharacterAnimBP.CharacterAnimBP)
+[2017.10.05-16.27.58:358][624]LogSavePackage: Save=33.71ms
+[2017.10.05-16.27.58:358][624]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP1B89DB074BE785EA72073BBA85681B97.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.27.58:361][624]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.28.08:856][997]LogSavePackage: Save=31.20ms
+[2017.10.05-16.28.08:856][997]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP741C8BCA41FABC1EF47C6E84D1D5A66A.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.28.08:860][997]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.28.53:293][546]LogSavePackage: Save=29.16ms
+[2017.10.05-16.28.53:293][546]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP06628AAF41220310426693AC72DF8015.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.28.53:297][546]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.28.54:584][593]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.28.55:789][625]LogSavePackage: Save=30.88ms
+[2017.10.05-16.28.55:789][625]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP92C7AB38430170A7548DD6B3BC198BEC.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.28.55:791][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.29.46:739][436]LogSavePackage: Save=26.97ms
+[2017.10.05-16.29.46:739][436]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP87B533A64E6EA86D4C4AE1B98340053C.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.29.46:741][436]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.29.57:607][821]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.30.23:396][725]LogSavePackage: Save=28.43ms
+[2017.10.05-16.30.23:396][725]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP65F185F04086AF9FF8A820AEBAADBAE5.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.30.23:400][725]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.30.26:062][821]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.30.39:895][301]LogSavePackage: Save=35.65ms
+[2017.10.05-16.30.39:895][301]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPA6AF6DC244A3034906883993B0B39E99.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.30.39:897][301]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.30.45:896][513]LogSavePackage: Save=26.57ms
+[2017.10.05-16.30.45:896][513]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPC4738AFC4F1891A8E72B61A14E0885E1.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.30.45:898][513]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.32.36:713][692]LogSavePackage: Save=43.48ms
+[2017.10.05-16.32.36:713][692]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPA8C47CB74F37A00C0D0EA4BAF8777929.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.32.36:716][692]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.32.37:671][727]LogTemp: Repeting last play command: Selected Viewport
+[2017.10.05-16.32.37:738][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.05-16.32.37:793][727]PIE: New page: PIE session: Untitled_1 (Oct 5, 2017, 10:32:37 AM)
+[2017.10.05-16.32.37:803][727]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.10.05-16.32.37:833][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028747s)
+[2017.10.05-16.32.37:835][727]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.05-16.32.37:844][727]LogPlayLevel: PIE: World Init took: (0.010974s)
+[2017.10.05-16.32.37:851][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.048101s)
+[2017.10.05-16.32.38:015][727]LogLoad: Game class is 'GameModeBase'
+[2017.10.05-16.32.38:019][727]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.10.05-13.32.38
+[2017.10.05-16.32.38:031][727]LogWorld: Bringing up level for play took: 0.006670
+[2017.10.05-16.32.38:378][727]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0027 seconds. Added 11 classes and 0 folders.
+[2017.10.05-16.32.38:438][727]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.121
+[2017.10.05-16.32.38:510][727]LogRenderer: Reallocating scene render targets to support 1292x832 NumSamples 1 (Frame:57721).
+[2017.10.05-16.33.08:396][794]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.05-16.33.10:904][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.05-16.33.12:641][ 29]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.05-16.33.18:873][239]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.05-16.33.22:535][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.05-16.33.23:312][549]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.05-16.33.23:372][549]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (Sky Sphere mesh)
+[2017.10.05-16.33.24:377][635]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2017.10.05-16.35.46:235][105]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.35.48:419][168]LogSavePackage: Save=26.86ms
+[2017.10.05-16.35.48:419][168]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPB83882274B3C7FBF2B79819CE151A6BB.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.35.48:422][168]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.37.06:539][811]LogSavePackage: Save=52.06ms
+[2017.10.05-16.37.06:539][811]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Untitled_1_Auto27C5D252C46260346CA771FB2DD34CE94.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2017.10.05-16.37.06:541][811]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Temp/Untitled_1_Auto2.umap
+[2017.10.05-16.37.06:574][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.121
+[2017.10.05-16.37.06:574][811]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2017.10.05-16.37.06:578][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/CharacterAnimBP] ([1] browsable assets)...
+[2017.10.05-16.37.06:641][811]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/CharacterAnimBP.CharacterAnimBP]
+[2017.10.05-16.37.06:641][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/CharacterAnimBP]
+[2017.10.05-16.37.06:684][811]LogSavePackage: Save=34.78ms
+[2017.10.05-16.37.06:684][811]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP_Auto2667495AC44E17B3F6DDA93A53DB546BE.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Game/Character/CharacterAnimBP_Auto2.uasset'
+[2017.10.05-16.37.06:686][811]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/Autosaves/Game/Character/CharacterAnimBP_Auto2.uasset
+[2017.10.05-16.37.06:686][811]LogFileHelpers: Auto-saving content packages took 0.111
+[2017.10.05-16.37.38:435][871]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.37.39:352][887]LogSavePackage: Save=34.53ms
+[2017.10.05-16.37.39:352][887]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBPEB235F5B429197DE405598B1480BC063.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.37.39:356][887]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
+[2017.10.05-16.40.38:123][940]BlueprintLog: New page: Compile CharacterAnimBP
+[2017.10.05-16.40.38:968][959]LogSavePackage: Save=26.26ms
+[2017.10.05-16.40.38:968][959]LogSavePackage: Moving '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Saved/CharacterAnimBP42D7E1C14E31168C3A058393C6633738.tmp' to '../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset'
+[2017.10.05-16.40.38:972][959]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/logonrm/Desktop/U4-Games/Unreal Projects/ThirdPerson_Basic/Content/Character/CharacterAnimBP.uasset
